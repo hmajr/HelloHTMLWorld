@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Simple description of what your project do or how to use it</b>
+    <b>Simple page that start my return studies in html/css</b>
 </p>
 
 <p align="center">
